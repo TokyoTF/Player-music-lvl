@@ -1,0 +1,35 @@
+[
+   {
+      "title": "Radio-Anime",
+      "cover": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWIZ5JC1TxJA-vpgbcEnHOcifAsOzpDzioc3vixWFcmmgZX73QF_K1HuGaKTMaAWDvcz9Oiqz86UZ4qLp1pP-R74D7HF1DzByoKJm8rVFJ4USQFplGKJuRQ-U7rWrOdWOTo6G9l4fFRuB7jhF-7032UvY6SYCA4s7mZIo0POFEYI7himMO39obDyiiNQ/w945-h600-p-k-no-nu/verano2022.jpg",
+      "satus": "NwN",
+      "page": "https://www.radio-anime.net",
+      "format": "tws",
+      "quality": "low",
+      "radio": "https://radioanime.radioca.st/stream"
+   },
+   {
+      "title": "Radio Vocaloid",
+      "cover": "https://4.bp.blogspot.com/-iAAJzNoMTMg/Wjjk6hmzIUI/AAAAAAAADqM/LuypG-fUSeQJ3exFNmgzOHCkFEkOMOgBgCLcBGAs/w250-h150-c/Miku-Expo-Mexico-2018.jpg",
+      "satus": "NwN",
+      "format": "tws",
+      "quality": "low",
+      "radio": "http://curiosity.shoutca.st:8019/128"
+   },
+   {
+      "title": "Radio AnimeNexusLA",
+      "cover": "https://i.imgur.com/SlYZZJm.png",
+      "satus": "NwN",
+      "format": "stf",
+      "quality": "middle",
+      "radio": "https://cast.animenexusla.com/radio/8000/animenexus"
+   },
+   {
+      "title": "IDLEGLANCE & Trash gang",
+      "cover": "https://64.media.tumblr.com/5ad939e959ebc74a4fe05a197f5c289a/ae5d673c5e47c51b-20/s640x960/c3693baba6e9b16aae8af66276a93c5dd71ea297.gif",
+      "satus": "NwN",
+      "format": "stf",
+      "quality": "middle",
+      "radio": "http://stream.zeno.fm/h2xdteazc48uv"
+   }
+]

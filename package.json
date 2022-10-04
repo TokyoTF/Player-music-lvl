@@ -1,6 +1,6 @@
 {
   "name": "player-music-lvl",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Es un reproductor de playlist .m3u8 | radio",
   "main": "src/app.js",
   "scripts": {

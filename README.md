@@ -3,7 +3,7 @@
 * Radio file fixed
 
 ## Player-LVL
-##### Es un reproductor de audio que contiene radio y puede abrir .m3u8
+##### Es un reproductor de radios y puede abrir .m3u8
 
 ##### Iconos usados
 
